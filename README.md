@@ -147,3 +147,46 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 ## License
 
 [MIT](LICENSE)
+
+## VPS Comparison & Reviews
+
+- [bwhhost.com](https://www.bwhhost.com/) — BandwagonHost reviews, speed tests, and CN2 GIA performance analysis.
+- [vultrinfo.com](https://vultrinfo.com/) — Vultr VPS guides, pricing, and location comparisons.
+- [digitaloceanpro.com](https://digitaloceanpro.com/) — DigitalOcean tutorials and droplet performance benchmarks.
+- [LowEndBox](https://lowendbox.com/) — Budget VPS deals and provider reviews.
+- [ServerHunter](https://www.serverhunter.com/) — VPS price comparison across 50+ providers.
+
+## Security & Hardening
+
+- [linux-server-init](https://github.com/devguoo/linux-server-init) — Essential scripts for initializing a fresh Linux server (firewall, SSH hardening, fail2ban).
+- [lynis](https://github.com/CISOfy/lynis) — Security auditing tool for Unix/Linux systems.
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) — Security configuration best practices.
+- [fail2ban](https://github.com/fail2ban/fail2ban) — Ban IPs that show malicious signs (brute-force attacks).
+- [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall) — Uncomplicated Firewall for Ubuntu/Debian.
+
+## Backup & Disaster Recovery
+
+- [restic](https://github.com/restic/restic) — Fast, secure, efficient backup program.
+- [borg](https://github.com/borgbackup/borg) — Deduplicating archiver with compression and encryption.
+- [rclone](https://github.com/rclone/rclone) — Rsync for cloud storage (S3, Dropbox, Google Drive, etc.).
+- [duplicity](https://duplicity.gitlab.io/) — Encrypted bandwidth-efficient backup using rsync algorithm.
+
+## Related Articles
+
+- [CN2 GIA vs Regular VPS: Speed Comparison (2026 Real Data)](https://dev.to/devguoo/cn2-gia-vs-regular-vps-speed-comparison-2026-real-data-bao) — Real-world benchmark results
+- [How to Test Your VPS Speed from Multiple Locations](https://bwhhost.hashnode.dev/how-to-test-your-vps-speed-from-multiple-locations) — Testing methodology guide
+- [BandwagonHost vs Other Budget VPS: An Honest Comparison](https://bwhhost.hashnode.dev/bandwagonhost-vs-other-budget-vps-an-honest-comparison) — Provider comparison
+
+---
+
+## Contributing
+
+Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+
+## License
+
+MIT
+
+---
+
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-03
