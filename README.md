@@ -119,7 +119,7 @@ Last updated: 2026-03-02
 - [Linux Journey](https://linuxjourney.com/) — Free interactive Linux learning.
 - [DigitalOcean Tutorials](https://www.digitalocean.com/community/tutorials) — High-quality server tutorials.
 - [Linuxize](https://linuxize.com/) — Practical Linux tutorials and tips.
-- [How to Set Up a VPS](https://github.com/devguoo/vps-buying-guide) — Complete VPS buying and setup guide. *(Coming soon)*
+- [VPS Buying Guide 2026](https://github.com/devguoo/vps-buying-guide) — Comprehensive guide to choosing the right VPS provider.
 
 ## Related Projects
 
