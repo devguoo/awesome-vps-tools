@@ -5,6 +5,7 @@ A curated list of useful tools, scripts, and resources for VPS users — speed t
 > ⭐ Star this repo to bookmark it — new tools added regularly.
 
 Last updated: 2026-03-13
+Last updated: 2026-03-13
 
 [![GitHub stars](https://img.shields.io/github/stars/devguoo/awesome-vps-tools?style=social)](https://github.com/devguoo/awesome-vps-tools)
 [![Last Commit](https://img.shields.io/github/last-commit/devguoo/awesome-vps-tools)](https://github.com/devguoo/awesome-vps-tools/commits/main)
@@ -61,6 +62,8 @@ Last updated: 2026-03-13
 - [htop](https://github.com/htop-dev/htop) — Interactive process viewer for Unix systems.
 - [btop](https://github.com/aristocratos/btop) — Resource monitor with beautiful TUI (CPU, memory, disk, network).
 - [Glances](https://github.com/nicolargo/glances) — Cross-platform system monitoring tool written in Python.
+- [Beszel](https://github.com/henrygd/beszel) — Lightweight server monitoring hub with Docker stats, historical data, and alerts.
+- [OneUptime](https://github.com/OneUptime/oneuptime) — Open-source observability platform — monitoring, status pages, incident management.
 
 ## Server Setup & Hardening
 
@@ -107,12 +110,14 @@ Last updated: 2026-03-13
 | **BandwagonHost** | $49.99/yr | CN2 GIA-E, great for Asia, 11 data centers | [Visit](https://bwh81.net/aff.php?aff=77647) |
 | **Vultr** | $2.50/mo | 32+ locations, hourly billing, up to $300 free credit | [Visit](https://www.vultr.com/?ref=8985760) |
 | **DigitalOcean** | $4/mo | Simple, developer-friendly, $200 free credit | [Visit](https://m.do.co/c/c8274544eaa3) |
+| **Cloudways** | $14/mo | Managed hosting on DO/AWS/GCP, free migration | [Visit](https://www.cloudways.com/en/?id=2088428) |
+| **Kinsta** | $35/mo | Premium managed WordPress & app hosting on GCP | [Visit](https://kinsta.com/pricing/?kaid=EDDTRFDLYHMZ) |
 | Linode (Akamai) | $5/mo | Reliable, good network | [Visit](https://www.linode.com/) |
 | Hetzner | €3.79/mo | Best value in Europe | [Visit](https://www.hetzner.com/) |
 | Oracle Cloud | Free tier | Always-free ARM instances | [Visit](https://www.oracle.com/cloud/free/) |
 | AWS Lightsail | $3.50/mo | AWS simplified | [Visit](https://aws.amazon.com/lightsail/) |
 
-> More detailed VPS comparisons and buying guides at [bwhhost.com](https://www.bwhhost.com) (BandwagonHost), [vultrinfo.com](https://www.vultrinfo.com) (Vultr), and [digitaloceanpro.com](https://www.digitaloceanpro.com) (DigitalOcean).
+> More detailed VPS comparisons and buying guides at [bwhhost.com](https://www.bwhhost.com) (BandwagonHost), [vultrinfo.com](https://www.vultrinfo.com) (Vultr), [digitaloceanpro.com](https://www.digitaloceanpro.com) (DigitalOcean), [cloudwaysguide.com](https://www.cloudwaysguide.com) (Cloudways), and [kinstainfo.com](https://www.kinstainfo.com) (Kinsta).
 
 ## Learning Resources
 
@@ -138,31 +143,15 @@ Last updated: 2026-03-13
 
 ---
 
-## Contributing
-
-Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
-
-If you find this list useful, please give it a ⭐ — it helps others discover it too.
-
-## License
-
-[MIT](LICENSE)
-
 ## VPS Comparison & Reviews
 
 - [bwhhost.com](https://www.bwhhost.com/) — BandwagonHost reviews, speed tests, and CN2 GIA performance analysis.
 - [vultrinfo.com](https://vultrinfo.com/) — Vultr VPS guides, pricing, and location comparisons.
 - [digitaloceanpro.com](https://www.digitaloceanpro.com/) — DigitalOcean guides, pricing, and setup tutorials.
+- [cloudwaysguide.com](https://www.cloudwaysguide.com/) — Cloudways managed hosting reviews, pricing, and migration guides.
+- [kinstainfo.com](https://www.kinstainfo.com/) — Kinsta premium hosting reviews, pricing, and performance analysis.
 - [LowEndBox](https://lowendbox.com/) — Budget VPS deals and provider reviews.
 - [ServerHunter](https://www.serverhunter.com/) — VPS price comparison across 50+ providers.
-
-## Security & Hardening
-
-- [linux-server-init](https://github.com/devguoo/linux-server-init) — Essential scripts for initializing a fresh Linux server (firewall, SSH hardening, fail2ban).
-- [lynis](https://github.com/CISOfy/lynis) — Security auditing tool for Unix/Linux systems.
-- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) — Security configuration best practices.
-- [fail2ban](https://github.com/fail2ban/fail2ban) — Ban IPs that show malicious signs (brute-force attacks).
-- [ufw](https://wiki.ubuntu.com/UncomplicatedFirewall) — Uncomplicated Firewall for Ubuntu/Debian.
 
 ## Backup & Disaster Recovery
 
@@ -174,8 +163,9 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 ## Related Articles
 
 - [CN2 GIA vs Regular VPS: Speed Comparison (2026 Real Data)](https://dev.to/devguoo/cn2-gia-vs-regular-vps-speed-comparison-2026-real-data-bao) — Real-world benchmark results
-- [How to Test Your VPS Speed from Multiple Locations](https://bwhhost.hashnode.dev/how-to-test-your-vps-speed-from-multiple-locations) — Testing methodology guide
-- [BandwagonHost vs Other Budget VPS: An Honest Comparison](https://bwhhost.hashnode.dev/bandwagonhost-vs-other-budget-vps-an-honest-comparison) — Provider comparison
+- [Budget VPS Showdown in 2026: I Tested 4 Providers So You Don't Have To](https://dev.to/devguoo) — Hands-on multi-provider comparison
+- [Cloudways Review 2026: Is It Really the Best Managed Cloud Hosting?](https://dev.to/devguoo) — Managed hosting deep dive
+- [DigitalOcean Review 2026: Is It Still the Best Cloud for Developers?](https://dev.to/devguoo) — Developer-focused cloud review
 
 ---
 
@@ -183,10 +173,13 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 
 Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
+If you find this list useful, please give it a ⭐ — it helps others discover it too.
+
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ---
 
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-13
 **Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-13
