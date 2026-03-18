@@ -4,7 +4,7 @@ A curated list of useful tools, scripts, and resources for VPS users — speed t
 
 > ⭐ Star this repo to bookmark it — new tools added regularly.
 
-Last updated: 2026-03-13
+Last updated: 2026-03-18
 
 [![GitHub stars](https://img.shields.io/github/stars/devguoo/awesome-vps-tools?style=social)](https://github.com/devguoo/awesome-vps-tools)
 [![Last Commit](https://img.shields.io/github/last-commit/devguoo/awesome-vps-tools)](https://github.com/devguoo/awesome-vps-tools/commits/main)
@@ -63,6 +63,7 @@ Last updated: 2026-03-13
 - [Glances](https://github.com/nicolargo/glances) — Cross-platform system monitoring tool written in Python.
 - [Beszel](https://github.com/henrygd/beszel) — Lightweight server monitoring hub with Docker stats, historical data, and alerts.
 - [OneUptime](https://github.com/OneUptime/oneuptime) — Open-source observability platform — monitoring, status pages, incident management.
+- [Ward](https://github.com/Rudolf-Barbu/Ward) — Minimal and beautiful server monitoring dashboard with a clean UI.
 
 ## Server Setup & Hardening
 
@@ -158,6 +159,7 @@ Last updated: 2026-03-13
 - [borg](https://github.com/borgbackup/borg) — Deduplicating archiver with compression and encryption.
 - [rclone](https://github.com/rclone/rclone) — Rsync for cloud storage (S3, Dropbox, Google Drive, etc.).
 - [duplicity](https://duplicity.gitlab.io/) — Encrypted bandwidth-efficient backup using rsync algorithm.
+- [Kopia](https://github.com/kopia/kopia) — Fast, encrypted backups with deduplication. Supports cloud, local, and S3-compatible storage.
 
 ## Related Articles
 
@@ -180,4 +182,4 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 
 ---
 
-**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-13
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-18
