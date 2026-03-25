@@ -4,7 +4,7 @@ A curated list of useful tools, scripts, and resources for VPS users — speed t
 
 > ⭐ Star this repo to bookmark it — new tools added regularly.
 
-Last updated: 2026-03-23
+Last updated: 2026-03-25
 
 [![GitHub stars](https://img.shields.io/github/stars/devguoo/awesome-vps-tools?style=social)](https://github.com/devguoo/awesome-vps-tools)
 [![Last Commit](https://img.shields.io/github/last-commit/devguoo/awesome-vps-tools)](https://github.com/devguoo/awesome-vps-tools/commits/main)
@@ -160,6 +160,7 @@ Last updated: 2026-03-23
 - [rclone](https://github.com/rclone/rclone) — Rsync for cloud storage (S3, Dropbox, Google Drive, etc.).
 - [duplicity](https://duplicity.gitlab.io/) — Encrypted bandwidth-efficient backup using rsync algorithm.
 - [Kopia](https://github.com/kopia/kopia) — Fast, encrypted backups with deduplication. Supports cloud, local, and S3-compatible storage.
+- [Duplicati](https://github.com/duplicati/duplicati) — Free, open-source backup client with web UI. Supports encrypted, incremental backups to cloud storage.
 
 ## Related Articles
 
@@ -182,4 +183,4 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 
 ---
 
-**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-23
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-25
