@@ -4,7 +4,7 @@ A curated list of useful tools, scripts, and resources for VPS users — speed t
 
 > ⭐ Star this repo to bookmark it — new tools added regularly.
 
-Last updated: 2026-03-25
+Last updated: 2026-03-28
 
 [![GitHub stars](https://img.shields.io/github/stars/devguoo/awesome-vps-tools?style=social)](https://github.com/devguoo/awesome-vps-tools)
 [![Last Commit](https://img.shields.io/github/last-commit/devguoo/awesome-vps-tools)](https://github.com/devguoo/awesome-vps-tools/commits/main)
@@ -183,4 +183,4 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 
 ---
 
-**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-25
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-28
