@@ -1,33 +1,37 @@
-# Contributing to Awesome VPS Tools
+# Contribution Guidelines
 
-Thanks for your interest in contributing!
+Thank you for your interest in contributing to this awesome list! Please ensure your pull request adheres to the following guidelines.
 
-## How to Contribute
+## Adding a New Entry
 
-1. Fork this repository
-2. Add your resource to the appropriate category
-3. Make sure the link is working
-4. Submit a Pull Request
+- Search previous suggestions before making a new one to avoid duplicates.
+- Use the following format: `[Name](URL) - Brief description.`
+  - The description should start with a capital letter and end with a period.
+  - Keep it concise — one sentence.
+- Add the entry to the appropriate category in alphabetical order.
+- Make sure the link is working and points to a relevant, high-quality resource.
+- The tool or resource should be actively maintained (updated within the last 2 years).
+- One pull request per addition/change.
+- The pull request title should be descriptive: `Add <tool-name> to <category>`.
 
-## Guidelines
+## Suggesting a New Category
 
-- Only add tools/resources you have personally used or verified
-- Each entry should follow the format: `[Name](URL) — Brief description.`
-- Keep descriptions concise (one line)
-- Add new entries at the end of the relevant section
-- Make sure the resource is actively maintained (updated within the last 2 years)
-- No duplicate entries
+- If your resource doesn't fit any existing category, propose a new one in your pull request.
+- A new category should have at least 3 entries.
 
 ## Quality Standards
 
-- The tool/resource must be relevant to VPS users
-- Commercial tools are OK if they offer a free tier or are widely used
-- No spam, affiliate-only pages, or low-quality content
+- The tool/resource must be relevant to VPS users and server administrators.
+- Commercial tools are acceptable if they offer a free tier or are widely recognized.
+- No spam, affiliate-only pages, or low-quality content.
+- Self-promotion is okay as long as the tool is genuinely useful and open source.
 
-## Categories
+## Updating an Entry
 
-If your resource doesn't fit any existing category, feel free to suggest a new one in your PR.
+- If a project has moved, been renamed, or deprecated, please submit a PR to update or remove it.
 
-## Questions?
+## Code of Conduct
 
-Open an issue if you're unsure about anything.
+By participating, you agree to be respectful and constructive. We follow the [Contributor Covenant](https://www.contributor-covenant.org/).
+
+Thank you for helping make this list awesome! 🎉
