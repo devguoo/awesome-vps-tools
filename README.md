@@ -4,7 +4,7 @@ A curated list of useful tools, scripts, and resources for VPS users — speed t
 
 > ⭐ Star this repo to bookmark it — new tools added regularly.
 
-Last updated: 2026-03-28
+Last updated: 2026-03-30
 
 [![GitHub stars](https://img.shields.io/github/stars/devguoo/awesome-vps-tools?style=social)](https://github.com/devguoo/awesome-vps-tools)
 [![Last Commit](https://img.shields.io/github/last-commit/devguoo/awesome-vps-tools)](https://github.com/devguoo/awesome-vps-tools/commits/main)
@@ -39,6 +39,7 @@ Last updated: 2026-03-28
 - [BestTrace](https://www.ipip.net/product/client.html) — Route tracing tool with visual map, great for China routes.
 - [ping.pe](https://ping.pe) — Online ping tool from 30+ global locations.
 - [itdog.cn](https://www.itdog.cn) — Ping and route test from China ISPs (Telecom/Unicom/Mobile).
+- [Trippy](https://github.com/fujiapple852/trippy) — Network diagnostic tool combining traceroute and ping with a rich TUI. Written in Rust.
 
 ## Benchmarking
 
@@ -183,4 +184,4 @@ If you find this list useful, please give it a ⭐ — it helps others discover 
 
 ---
 
-**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-28
+**Maintained by [@devguoo](https://github.com/devguoo)** | Last updated: 2026-03-30
