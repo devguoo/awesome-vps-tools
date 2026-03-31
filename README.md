@@ -58,6 +58,7 @@
 - [Ward](https://github.com/Rudolf-Barbu/Ward) - Minimal and beautiful server monitoring dashboard.
 - [Nagios](https://github.com/NagiosEnterprises/nagioscore) - Industry-standard IT infrastructure monitoring.
 - [Checkmk](https://github.com/Checkmk/checkmk) - Monitoring platform for servers, networks, and cloud infrastructure.
+- [Gatus](https://github.com/TwiN/gatus) - Developer-oriented health dashboard with configurable alerts and conditions for endpoints.
 
 ## 🛡️ Security
 
