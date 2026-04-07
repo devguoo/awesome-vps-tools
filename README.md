@@ -106,6 +106,7 @@
 - [CyberPanel](https://github.com/usmannasir/cyberpanel) - Web hosting control panel powered by OpenLiteSpeed.
 - [HestiaCP](https://github.com/hestiacp/hestiacp) - Lightweight and open-source web server control panel.
 - [Coolify](https://github.com/coollabsio/coolify) - Self-hosted Heroku/Netlify/Vercel alternative.
+- [Termix](https://github.com/Termix-SSH/Termix) - Web-based server management platform with SSH terminal, tunneling, and file editing.
 
 ## 💾 Backup & Snapshot
 
@@ -214,4 +215,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [devguoo](https://github.com/devguoo) has waived all copyright and related or neighboring rights to this work.
-2026-04-04
+2026-04-07
