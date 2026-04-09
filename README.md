@@ -59,6 +59,7 @@
 - [Nagios](https://github.com/NagiosEnterprises/nagioscore) - Industry-standard IT infrastructure monitoring.
 - [Checkmk](https://github.com/Checkmk/checkmk) - Monitoring platform for servers, networks, and cloud infrastructure.
 - [Gatus](https://github.com/TwiN/gatus) - Developer-oriented health dashboard with configurable alerts and conditions for endpoints.
+- [Scrutiny](https://github.com/AnalogJ/scrutiny) - Hard drive S.M.A.R.T. monitoring with a web UI and historical trends.
 
 ## 🛡️ Security
 
@@ -215,4 +216,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [devguoo](https://github.com/devguoo) has waived all copyright and related or neighboring rights to this work.
-2026-04-07
+2026-04-09
