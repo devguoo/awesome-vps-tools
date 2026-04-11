@@ -170,6 +170,7 @@
 - [The Linux Documentation Project](https://tldp.org/) - Collection of Linux guides, HOWTOs, and FAQs.
 - [Servers for Hackers](https://serversforhackers.com/) - Server administration tutorials for developers.
 - [Self-Hosted Podcast](https://selfhosted.show/) - Podcast about self-hosting, home automation, and servers.
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of open-source sysadmin resources, tools, and software.
 
 ## 🏷️ VPS Providers
 
@@ -216,4 +217,4 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [devguoo](https://github.com/devguoo) has waived all copyright and related or neighboring rights to this work.
-2026-04-09
+2026-04-11
