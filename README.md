@@ -150,6 +150,7 @@
 - [Netmaker](https://github.com/gravitl/netmaker) - Platform for creating fast and secure virtual networks with WireGuard.
 - [frp](https://github.com/fatedier/frp) - Fast reverse proxy to expose a local server behind a NAT or firewall.
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/) - Secure tunnel to connect your origin server to Cloudflare without a public IP.
+- [Pangolin](https://github.com/fosrl/pangolin) - Self-hosted, identity-aware tunneled reverse proxy built on WireGuard for secure remote access.
 
 ## 🖥️ OS & Distro
 
