@@ -1,10 +1,23 @@
-# Awesome VPS Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# VPS 工具与选购资源 / Awesome VPS Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome tools, scripts, and resources for VPS management — benchmarking, monitoring, security, containers, panels, and more.
+中文用户优先：这个仓库整理 VPS 管理、测速、监控、安全、面板、备份和选购相关资源。除了工具清单，也提供中文 VPS 购买决策入口，帮助你先判断用途、预算、线路和服务商，再决定是否购买。
 
-Use this list to find practical tools for managing, testing, securing and operating VPS servers.
+## 中文用户快速入口
 
-Selection notes: entries should be useful to VPS users, developers, server administrators, or self-hosting users. Affiliate-only pages and thin promotional pages are intentionally avoided.
+如果你正在选 VPS 或海外云服务器，可以先看：
+
+- [搬瓦工 VPS 中文购买指南](https://www.bwhguide.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_bwhguide)
+- [搬瓦工套餐推荐器](https://www.bwhguide.com/tools/vps-selector/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_selector)
+- [搬瓦工库存监控](https://www.bwhguide.com/tools/stock-monitor/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_stock)
+- [Cloudways 中文指南：价格、付款、教程和 WordPress 主机](https://www.wpcloudguide.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_cloudways)
+
+这些入口服务中文购买决策，不替代下方工具清单。最终价格、库存、付款和服务条款仍以对应服务商页面为准。
+
+## English Summary
+
+A curated list of tools, scripts, and resources for VPS management — benchmarking, monitoring, security, containers, panels, backup, automation, and more.
+
+Use this list to find practical tools for managing, testing, securing and operating VPS servers. Entries should be useful to VPS users, developers, server administrators, or self-hosting users. Affiliate-only pages and thin promotional pages are intentionally avoided.
 
 ---
 
