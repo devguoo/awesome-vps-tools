@@ -2,7 +2,7 @@
 
 > A curated list of awesome tools, scripts, and resources for VPS management — benchmarking, monitoring, security, containers, panels, and more.
 
-⭐ Star this repo to bookmark it — new tools added regularly.
+Use this list to find practical tools for managing, testing, securing and operating VPS servers.
 
 Selection notes: entries should be useful to VPS users, developers, server administrators, or self-hosting users. Affiliate-only pages and thin promotional pages are intentionally avoided.
 
@@ -29,9 +29,9 @@ Selection notes: entries should be useful to VPS users, developers, server admin
 
 ## 🔧 Benchmark & Speed Test
 
+- [BandwagonHost Speed Test](https://github.com/devguoo/bwg-speed-test) - BandwagonHost latency test script and datacenter reference for route comparison.
 - [YABS](https://github.com/masonr/yet-another-bench-script) - Yet Another Bench Script — CPU, disk, and network benchmarks in one go.
 - [bench.sh](https://bench.sh) - Quick VPS benchmark script covering I/O, speed, and system info.
-- [BandwagonHost Speed Test](https://github.com/devguoo/bwg-speed-test) - BandwagonHost latency test script and datacenter reference for route comparison.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command-line interface for testing internet bandwidth using speedtest.net.
 - [LibreSpeed](https://github.com/librespeed/speedtest) - Self-hosted speed test with no Flash, Java, or WebSocket required.
 - [nench](https://github.com/n-st/nench) - VPS benchmark script based on bench.sh with more detailed I/O tests.
@@ -215,7 +215,7 @@ Selection notes: entries should be useful to VPS users, developers, server admin
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+Contributions welcome. Please read the [contributing guidelines](CONTRIBUTING.md) first. This list is curated, so a smaller number of high-quality entries is better than a long directory of everything.
 
 ## License
 
