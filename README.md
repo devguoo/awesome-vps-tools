@@ -4,6 +4,8 @@
 
 ⭐ Star this repo to bookmark it — new tools added regularly.
 
+Selection notes: entries should be useful to VPS users, developers, server administrators, or self-hosting users. Affiliate-only pages and thin promotional pages are intentionally avoided.
+
 ---
 
 ## Contents
@@ -29,6 +31,7 @@
 
 - [YABS](https://github.com/masonr/yet-another-bench-script) - Yet Another Bench Script — CPU, disk, and network benchmarks in one go.
 - [bench.sh](https://bench.sh) - Quick VPS benchmark script covering I/O, speed, and system info.
+- [BandwagonHost Speed Test](https://github.com/devguoo/bwg-speed-test) - BandwagonHost latency test script and datacenter reference for route comparison.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Command-line interface for testing internet bandwidth using speedtest.net.
 - [LibreSpeed](https://github.com/librespeed/speedtest) - Self-hosted speed test with no Flash, Java, or WebSocket required.
 - [nench](https://github.com/n-st/nench) - VPS benchmark script based on bench.sh with more detailed I/O tests.
@@ -173,14 +176,15 @@
 - [Servers for Hackers](https://serversforhackers.com/) - Server administration tutorials for developers.
 - [Self-Hosted Podcast](https://selfhosted.show/) - Podcast about self-hosting, home automation, and servers.
 - [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of open-source sysadmin resources, tools, and software.
+- [BWH Guide](https://www.bwhguide.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=learning_resources) - Chinese BandwagonHost VPS buying research, plan selector, and stock monitor.
 
 ## 🏷️ VPS Providers
 
-- [BandwagonHost](https://www.bwhhost.com) - Budget-friendly VPS with CN2 GIA-E for low-latency Asia routes.
-- [Vultr](https://www.vultrinfo.com) - Cloud compute with 32+ global locations and hourly billing.
-- [DigitalOcean](https://www.digitaloceanpro.com) - Developer-friendly cloud platform with simple pricing.
-- [Cloudways](https://www.cloudwaysguide.com) - Managed hosting on top of DigitalOcean, AWS, and GCP.
-- [Kinsta](https://www.kinstainfo.com) - Premium managed WordPress and application hosting on GCP.
+- [BandwagonHost](https://bandwagonhost.com/) - VPS provider known for budget plans and Asia-oriented route options.
+- [Vultr](https://www.vultr.com/) - Cloud compute with global locations and hourly billing.
+- [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud platform with simple pricing.
+- [Cloudways](https://www.cloudways.com/) - Managed hosting platform on top of cloud infrastructure providers.
+- [Kinsta](https://kinsta.com/) - Managed WordPress and application hosting platform.
 - [Linode (Akamai)](https://www.linode.com/) - Reliable cloud hosting with a strong developer community.
 - [Hetzner](https://www.hetzner.com/) - Best value cloud hosting in Europe with powerful hardware.
 - [Oracle Cloud](https://www.oracle.com/cloud/free/) - Generous always-free tier including ARM instances.
@@ -198,7 +202,6 @@
 
 - [LowEndBox](https://lowendbox.com/) - Budget VPS deals and provider reviews.
 - [ServerHunter](https://www.serverhunter.com/) - VPS price comparison engine across 50+ providers.
-- [VPS Best](https://www.vps-best.com) - VPS recommendations and buying guides.
 
 ## 💬 Communities
 
@@ -219,4 +222,3 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [devguoo](https://github.com/devguoo) has waived all copyright and related or neighboring rights to this work.
-2026-05-14
