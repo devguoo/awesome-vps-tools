@@ -2,6 +2,10 @@
 
 中文用户优先：这个仓库整理 VPS 管理、测速、监控、安全、面板、备份和选购相关资源。除了工具清单，也提供中文 VPS 购买决策入口，帮助你先判断用途、预算、线路和服务商，再决定是否购买。
 
+GitHub Pages:
+
+- [VPS tools and server buying resources](https://devguoo.github.io/awesome-vps-tools/?utm_source=github&utm_medium=readme&utm_campaign=awesome_vps_tools&utm_content=readme_pages_entry)
+
 ## 中文用户快速入口
 
 如果你正在选 VPS 或海外云服务器，可以先看：
