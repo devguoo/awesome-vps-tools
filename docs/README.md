@@ -13,12 +13,13 @@ It is not a provider ranking page. The goal is to help you choose useful tools f
 | Secure SSH and system access | fail2ban, CrowdSec, UFW, ssh-audit, Lynis | Do this before exposing services publicly |
 | Manage Docker and self-hosting | Docker, Docker Compose, Portainer, Dockge, Coolify | Useful for small apps, personal services and client projects |
 | Back up data | restic, BorgBackup, rclone, Kopia | A cheap VPS without backup is still a risky VPS |
-| Compare VPS choices | [BWH Guide](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_bwhguide), [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_cloudways_pricing) | Compare use case, region, budget, billing and support needs |
+| Compare VPS choices | [VPS buying checklist](vps-buying-checklist.md), [BWH Guide](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_bwhguide), [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_cloudways_pricing) | Compare use case, region, budget, billing and support needs |
 
 ## Chinese VPS Buying Tools
 
 中文用户如果正在比较搬瓦工、Cloudways 或海外 VPS，可以先用这些工具缩小范围：
 
+- [VPS 购买前检查清单](vps-buying-checklist.md)
 - [搬瓦工 VPS 中文购买指南](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_bwhguide)
 - [搬瓦工套餐推荐器](https://www.bwhguide.com/tools/vps-selector/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_selector)
 - [搬瓦工库存监控](https://www.bwhguide.com/tools/stock-monitor/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_stock)
@@ -71,7 +72,7 @@ It is not a provider ranking page. The goal is to help you choose useful tools f
 
 ## Buying Checklist
 
-Before choosing a VPS provider or managed host, answer these questions:
+Before choosing a VPS provider or managed host, read the [VPS buying checklist](vps-buying-checklist.md), then answer these questions:
 
 1. What will run on the server: learning, website, app, WordPress, WooCommerce, proxy, backup or monitoring?
 2. Where are the visitors or users?
