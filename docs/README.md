@@ -19,7 +19,7 @@ It is not a provider ranking page. The goal is to help you choose useful tools f
 
 中文用户如果正在比较搬瓦工、Cloudways 或海外 VPS，可以先用这些工具缩小范围：
 
-- [VPS 购买前检查清单](vps-buying-checklist.md)
+- [VPS 购买前检查清单](zh-cn/vps-buying-checklist.md)
 - [搬瓦工 VPS 中文购买指南](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_bwhguide)
 - [搬瓦工套餐推荐器](https://www.bwhguide.com/tools/vps-selector/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_selector)
 - [搬瓦工库存监控](https://www.bwhguide.com/tools/stock-monitor/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_stock)

@@ -11,7 +11,7 @@ GitHub Pages:
 
 如果你正在选 VPS 或海外云服务器，可以先看：
 
-- [VPS 购买前检查清单](https://devguoo.github.io/awesome-vps-tools/vps-buying-checklist.html?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_checklist)
+- [VPS 购买前检查清单](https://devguoo.github.io/awesome-vps-tools/zh-cn/vps-buying-checklist.html?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_checklist)
 - [搬瓦工 VPS 中文购买指南](https://www.bwhguide.com/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_bwhguide)
 - [搬瓦工套餐推荐器](https://www.bwhguide.com/tools/vps-selector/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_selector)
 - [搬瓦工库存监控](https://www.bwhguide.com/tools/stock-monitor/?utm_source=github&utm_medium=repo&utm_campaign=awesome_vps_tools&utm_content=readme_cn_top_stock)
