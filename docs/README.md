@@ -15,10 +15,17 @@ It is not a provider ranking page. The goal is to help you choose useful tools f
 | Back up data | restic, BorgBackup, rclone, Kopia | A cheap VPS without backup is still a risky VPS |
 | Compare VPS choices | [VPS buying checklist](vps-buying-checklist.md), [BWH Guide](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_bwhguide), [Cloudways pricing guide](https://www.cloudwaysguide.com/cloudways-pricing.html?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_home_cloudways_pricing) | Compare use case, region, budget, billing and support needs |
 
+## Language Entry Points
+
+- [English: VPS buying checklist](vps-buying-checklist.md)
+- [中文：VPS 购买与选型入口](zh-cn/)
+- [中文：VPS 购买前检查清单](zh-cn/vps-buying-checklist.md)
+
 ## Chinese VPS Buying Tools
 
 中文用户如果正在比较搬瓦工、Cloudways 或海外 VPS，可以先用这些工具缩小范围：
 
+- [中文 VPS 购买与选型入口](zh-cn/)
 - [VPS 购买前检查清单](zh-cn/vps-buying-checklist.md)
 - [搬瓦工 VPS 中文购买指南](https://www.bwhguide.com/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_bwhguide)
 - [搬瓦工套餐推荐器](https://www.bwhguide.com/tools/vps-selector/?utm_source=github&utm_medium=pages&utm_campaign=awesome_vps_tools&utm_content=pages_cn_selector)

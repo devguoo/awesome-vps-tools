@@ -2,7 +2,7 @@
 
 This checklist is for developers, site owners and self-hosting users who are comparing VPS providers, managed WordPress hosting, or cloud servers. It helps you decide what to check before paying, instead of choosing only by the lowest visible price.
 
-中文用户可以直接阅读：[VPS 购买前检查清单（中文版）](zh-cn/vps-buying-checklist.md)。本页保留为英文版购买前核对表。
+中文用户可以从[中文 VPS 购买与选型入口](zh-cn/)开始，也可以直接阅读：[VPS 购买前检查清单（中文版）](zh-cn/vps-buying-checklist.md)。本页保留为英文版购买前核对表。
 
 ## Quick Decision
 
