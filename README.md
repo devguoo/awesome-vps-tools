@@ -222,6 +222,7 @@ Use this list to find practical tools for managing, testing, securing and operat
 
 ### VPS Review & Comparison
 
+- [Cheap VPS Finder](https://cheapvpsfinder.com/) - Public index for comparing low-cost VPS plans and pricing.
 - [LowEndBox](https://lowendbox.com/) - Budget VPS deals and provider reviews.
 - [ServerHunter](https://www.serverhunter.com/) - VPS price comparison engine across 50+ providers.
 
