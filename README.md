@@ -100,6 +100,7 @@ Use this list to find practical tools for managing, testing, securing and operat
 - [OSSEC](https://github.com/ossec/ossec-hids) - Host-based intrusion detection system.
 - [Wazuh](https://github.com/wazuh/wazuh) - Open-source security platform for threat detection, compliance, and incident response.
 - [Trivy](https://github.com/aquasecurity/trivy) - Comprehensive vulnerability scanner for containers, filesystems, and git repositories.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## 🐳 Container & Orchestration
 
