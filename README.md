@@ -224,6 +224,7 @@ Use this list to find practical tools for managing, testing, securing and operat
 
 - [LowEndBox](https://lowendbox.com/) - Budget VPS deals and provider reviews.
 - [ServerHunter](https://www.serverhunter.com/) - VPS price comparison engine across 50+ providers.
+- [VPS Deals Wire](https://www.vpsdealswire.com/) - Independent cheap-VPS price comparison across 28 providers, refreshed every 6 hours.
 
 ## 💬 Communities
 
