@@ -224,6 +224,7 @@ Use this list to find practical tools for managing, testing, securing and operat
 
 - [LowEndBox](https://lowendbox.com/) - Budget VPS deals and provider reviews.
 - [ServerHunter](https://www.serverhunter.com/) - VPS price comparison engine across 50+ providers.
+- [VPS录 线路科普](https://vpslu.com/reviews/cn2-gia-9929-cmin2-line-guide.html) - Chinese guide to CN2 GIA, 9929 and CMIN2 return routes and how to pick one by home ISP.
 
 ## 💬 Communities
 
